@@ -1,9 +1,9 @@
 import pyttsx3
 import PySimpleGUI as sg 
 
-text = sg.popup_get_file('Please enter a file name')
-# sg.popup('Results', 'The value returned from popup_get_file', text)
 
+text = sg.popup_get_file('Please enter a file name', title="Audio Mate v001", button_color="grey", background_color="blue")
+# sg.popup('Results', 'The value returned from popup_get_file', text)
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
@@ -13,6 +13,7 @@ theText = f.read()
 f.close()
 engine.say(theText)
 engine.runAndWait()
+
 
 """
 sg.theme('DarkAmber')   # Add a touch of color
