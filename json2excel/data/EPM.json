@@ -1,0 +1,92 @@
+        {
+            "fields": [
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37920,
+                    "SECURITY_DIMENSION_KEY": 2,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 1,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "CODE",
+                    "DIMENSION_VALUE": "MAJUNJ",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37919,
+                    "SECURITY_DIMENSION_KEY": 1,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 2,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "CODE",
+                    "DIMENSION_VALUE": "AP-GEO",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37923,
+                    "SECURITY_DIMENSION_KEY": 2,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 2,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "CODE",
+                    "DIMENSION_VALUE": "SUQ1",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37922,
+                    "SECURITY_DIMENSION_KEY": 2,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 2,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "CODE",
+                    "DIMENSION_VALUE": "UNUNJ",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37921,
+                    "SECURITY_DIMENSION_KEY": 2,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 1,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "CODE",
+                    "DIMENSION_VALUE": "MINQ1",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37916,
+                    "SECURITY_DIMENSION_KEY": 8,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 1,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "",
+                    "DIMENSION_VALUE": "0",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37918,
+                    "SECURITY_DIMENSION_KEY": 1,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 1,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "CODE",
+                    "DIMENSION_VALUE": "APAC",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                },
+                {
+                    "USER_ACCESS_AUTHORIZATION_KEY": 37917,
+                    "SECURITY_DIMENSION_KEY": 8,
+                    "APPLICATION_KEY": 1,
+                    "VERSION_KEY": 2,
+                    "USER_ID": "shuip@kr.ibm.com",
+                    "DIMENSION_CODE": "",
+                    "DIMENSION_VALUE": "0",
+                    "CREATE_TIMESTAMP": "2021-08-16T22:38:35.000Z",
+                    "UPDATE_TIMESTAMP": "2021-08-16T22:38:35.000Z"
+                }
+            ]
+        }

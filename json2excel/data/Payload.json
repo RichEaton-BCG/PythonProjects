@@ -1,0 +1,124 @@
+[
+  {
+    "typeId": "custom",
+    "modifiedDate": "2020-11-07T02:33:40.117+0000",
+    "createdDate": "2020-11-07T02:33:40.117+0000",
+    "userId": "4J5144123",
+    "active": true,
+    "content": {
+      "inCountryManager": {
+        "profile": {
+          "uid": "1J67918123",
+          "name": {
+            "last": "LastName",
+            "first": "FirstName"
+          },
+          "preferredIdentity": "FirstName.LastName@ibm.com"
+        }
+      },
+      "functionalManager": {
+        "profile": {
+          "uid": "1K8791897",
+          "name": {
+            "last": "ManagerLast",
+            "first": "ManagerFirst"
+          },
+          "preferredIdentity": "MFirst.MLast@ibm.com"
+        }
+      },
+      "user": {
+        "profile": {
+          "uid": "4J5144897",
+          "name": {
+            "last": "Bier",
+            "first": "Brian"
+          },
+          "preferredIdentity": "Brian.Bier@ibm.com"
+        },
+        "expertise": {}
+      }
+    }
+  },
+  {
+    "typeId": "custom",
+    "modifiedDate": "2020-11-07T02:30:43.800+0000",
+    "createdDate": "2020-11-07T02:30:43.800+0000",
+    "userId": "2J3965897",
+    "active": true,
+    "content": {
+      "inCountryManager": {
+        "profile": {
+          "uid": "1J6791897",
+          "name": {
+            "last": "Hale",
+            "first": "Justin"
+          },
+          "preferredIdentity": "Justin.Hale@ibm.com"
+        }
+      },
+      "functionalManager": {
+        "profile": {
+          "uid": "1J6791897",
+          "name": {
+            "last": "Hale",
+            "first": "Justin"
+          },
+          "preferredIdentity": "Justin.Hale@ibm.com"
+        }
+      },
+      "user": {
+        "profile": {
+          "uid": "2J3965897",
+          "name": {
+            "last": "Eaton",
+            "first": "Rich"
+          },
+          "preferredIdentity": "Rich.Eaton@ibm.com"
+        },
+        "expertise": {
+          "expertiseSummary": "A well versed and deeply technical analyst. The skill sets acquired over the years have given made me into a strong team player. \nMy skill set includes:\n- Team Building ( ex. Global Director Level experience )\n- Leadership (Project Management )\n- Sales Technology / Enablement\n- Client Relationship Management\n- Business Process\n- Development( programming multiple languages )\n- Data Science ( Statistics, AI, and ML ) "
+        }
+      }
+    }
+  },
+  {
+    "typeId": "custom",
+    "modifiedDate": "2020-11-07T02:28:58.940+0000",
+    "createdDate": "2020-11-07T02:28:58.940+0000",
+    "userId": "1J6791897",
+    "active": true,
+    "content": {
+      "inCountryManager": {
+        "profile": {
+          "uid": "791299897",
+          "name": {
+            "last": "Sorbet",
+            "first": "Alison"
+          },
+          "preferredIdentity": "sorbet@us.ibm.com"
+        }
+      },
+      "functionalManager": {
+        "profile": {
+          "uid": "01637Z744",
+          "name": {
+            "last": "Coldrey",
+            "first": "Julian"
+          },
+          "preferredIdentity": "jcoldrey@in.ibm.com"
+        }
+      },
+      "user": {
+        "profile": {
+          "uid": "1J6791897",
+          "name": {
+            "last": "Hale",
+            "first": "Justin"
+          },
+          "preferredIdentity": "Justin.Hale@ibm.com"
+        },
+        "expertise": {}
+      }
+    }
+  }
+]
